@@ -33,3 +33,9 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 git clone https://github.com/your-username/document-summarizer-gemini.git
 cd Summarizer_tool
 
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+pip install -r requirements.txt
+
+
