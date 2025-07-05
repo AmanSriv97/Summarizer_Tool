@@ -33,9 +33,36 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 git clone https://github.com/your-username/document-summarizer-gemini.git
 cd Summarizer_tool
 
+```
+
+### 2. Create a virtual enviornment.
+
+```bash
+
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
+```
+
+### 3. Install all the required dependencies
+
+```bash
+
 pip install -r requirements.txt
 
+```
+
+### 4.Add your Gemini API Key
+Create a .env file and add your api key as shown below:
+
+```bash
+GOOGLE_API_KEY=your_api_key_here
+```
+
+### 5. Usage
+Run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
 
