@@ -19,7 +19,7 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Image
 
 ![App Demo](img_1.png)
 
