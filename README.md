@@ -1,4 +1,4 @@
-# 📄 Document Summarizer App using LLM (Gemini)
+# 📄 Summarizer Tool using LLM (Gemini)
 
 A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOCX) using **Google Gemini LLM**. Supports multiple summary styles like short, detailed, and bullet points — all generated with reference to the original document content.
 
@@ -31,5 +31,5 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 
 ```bash
 git clone https://github.com/your-username/document-summarizer-gemini.git
-cd document-summarizer-gemini
+cd Summarizer_tool
 
