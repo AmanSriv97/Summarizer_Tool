@@ -27,7 +27,7 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 ## 🎬 Demo Video
 
 <video width="420" controls>
-  <source src="demo_video.mp4" type="video/mp4">
+  <source src="https://github.com/AmanSriv97/Summarizer_Tool/demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
