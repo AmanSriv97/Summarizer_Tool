@@ -21,10 +21,15 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 
 ## 🎥 Demo Image
 
-![App Demo](img_1.png)
-
 <img src="img_1.png" alt="App Demo" width="400"/>
 ---
+
+## 🎬 Demo Video
+
+<video width="420" controls>
+  <source src="demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🛠️ Installation & Setup
 
