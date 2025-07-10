@@ -27,9 +27,10 @@ A Streamlit web app to intelligently summarize uploaded documents (PDF, TXT, DOC
 ## 🎬 Demo Video
 
 <video width="420" controls>
-  <source src="https://github.com/AmanSriv97/Summarizer_Tool/demo_video.mp4" type="video/mp4">
+  <source src="https://github.com/AmanSriv97/Summarizer_Tool/raw/main/demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## 🛠️ Installation & Setup
 
@@ -69,6 +70,6 @@ GOOGLE_API_KEY=your_api_key_here
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run summarizer.py
 ```
 
